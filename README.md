@@ -6,5 +6,3 @@
 # Tại sao cần Serialization?
 - Trong Java, khi trao đổi dữ liệu giữa các thành phần khác nhau (giữa các module cùng viết bằng Java) thì dữ liệu được thể hiện dưới dạng byte chứ không phải là đối tượng. Do đó ta cần có một cơ chế để hiểu các đối tượng được gửi và nhận.
 - Quá trình serilization hoàn toàn độc lập với platform (không phụ thuộc vào hệ điều hành) nên việc chuyển đổi giữa byte và object giữa các module được đảm bảo.
-
-![alt text](/home/dungnh3/Downloads/Selection_005.png.png?raw=true "")
