@@ -2,3 +2,7 @@
 serialization-deserialization\.iml
 
 \.idea/
+
+target/
+
+src/customer\.dat
